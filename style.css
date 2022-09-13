@@ -1,0 +1,39 @@
+body
+{
+    font-family:'Pacifico', cursive; 
+    background-color: rgb(139, 238, 238);
+}
+.header_div
+{
+background-color: rgb(253, 120, 191);
+color:#db94ff;
+}
+.header_div p
+{
+    font-family:'Oswald', sans-serif;
+    color: rgb(108, 159, 255);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div_button
+{
+    font-family:'Pacifico', cursive; 
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color:rgb(113, 160, 248);
+    bottom: 100%;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(126, 192, 250);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(108, 159, 255);
+}
